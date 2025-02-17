@@ -57,7 +57,3 @@ Edge Detection: The edge detection is achieved through the Canny edge detection 
 Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, bug reports, and feature requests are always welcome!
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Let me know if you'd like to add any other sections!
