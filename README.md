@@ -1,11 +1,11 @@
 # Image Grayscale Conversion and Edge Detection
 This project implements a Python script that converts a color image to grayscale and detects its edges using various image processing techniques. The program is built using popular libraries such as OpenCV and NumPy to perform the core image manipulation tasks.
 
-Features
+# Features
 Color to Grayscale Conversion: Converts a color image to a grayscale image using OpenCV functions.
 Edge Detection: Detects the edges in the image using the Canny edge detection algorithm.
 Save Results: Saves the processed grayscale image and the edge-detected image as separate files.
-Requirements
+# Requirements
 Python 3.x
 OpenCV (opencv-python)
 NumPy (numpy)
