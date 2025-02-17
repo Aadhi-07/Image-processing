@@ -6,11 +6,11 @@ Color to Grayscale Conversion: Converts a color image to a grayscale image using
 Edge Detection: Detects the edges in the image using the Canny edge detection algorithm.
 Save Results: Saves the processed grayscale image and the edge-detected image as separate files.
 # Requirements
-Python 3.x
+1.Python 3.x
 
-OpenCV (opencv-python)
+2.OpenCV (opencv-python)
 
-NumPy (numpy)
+3.NumPy (numpy)
 
 
 You can install the required libraries by running:
