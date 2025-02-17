@@ -7,8 +7,12 @@ Edge Detection: Detects the edges in the image using the Canny edge detection al
 Save Results: Saves the processed grayscale image and the edge-detected image as separate files.
 # Requirements
 Python 3.x
+
 OpenCV (opencv-python)
+
 NumPy (numpy)
+
+
 You can install the required libraries by running:
 
 bash
