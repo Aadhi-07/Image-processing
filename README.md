@@ -23,7 +23,7 @@ Clone this repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/Aadhi-07/image-grayscale-edge-detection.git
+git clone https://github.com/Aadhi-07/image-processing.git
 Navigate to the project directory:
 
 bash
