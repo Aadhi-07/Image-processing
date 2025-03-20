@@ -23,7 +23,7 @@ Clone this repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/Aadhi-07/image-processing.git
+git clone https://github.com/Aadhi-07/Image-processing.git
 Navigate to the project directory:
 
 bash
