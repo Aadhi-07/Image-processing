@@ -11,7 +11,7 @@ Save Results: Saves the processed grayscale image and the edge-detected image as
 2.OpenCV (opencv-python)
  
 3.NumPy (numpy)
-
+b
 
 You can install the required libraries by running:
 
