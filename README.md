@@ -9,7 +9,7 @@ Save Results: Saves the processed grayscale image and the edge-detected image as
 1.Python 3.x
 
 2.OpenCV (opencv-python)
-
+ 
 3.NumPy (numpy)
 
 
